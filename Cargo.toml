@@ -1,0 +1,10 @@
+[package]
+name = "word_trie"
+version = "0.1.0"
+authors = ["Nguyen The Linh <daibo031983@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ahash = "0.7.4"
